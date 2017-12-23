@@ -24,12 +24,12 @@
 
 .app-0-0-0 {
     display: flex;
-    padding-left: 63px;
-    padding-right: 746px;
+    padding-left: 62px;
+    padding-right: 467px;
 }
 
 .app-hello_world_-9 {
-    width: 341px;
+    width: 621px;
     flex-shrink: 0;
     font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
     color: #000000;
@@ -45,7 +45,7 @@
 
 .app-0-0-1 {
     display: flex;
-    margin-top: 9px;
+    margin-top: 17px;
     padding-left: 62px;
     padding-right: 747px;
 }
@@ -67,7 +67,7 @@
 
 .app-0-0-2 {
     display: flex;
-    margin-top: 29px;
+    margin-top: 21px;
     padding-left: 62px;
     padding-right: 810px;
 }
@@ -80,7 +80,29 @@
 
 .app-0-0-3 {
     display: flex;
-    margin-top: 25px;
+    margin-top: 27px;
+    padding-left: 62px;
+    padding-right: 747px;
+}
+
+.app-welcome_to_your_firs-4 {
+    width: 341px;
+    flex-shrink: 0;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: #000000;
+    font-size: 20px;
+    line-height: normal;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    text-align: left;
+    word-wrap: break-word;
+}
+
+.app-0-0-4 {
+    display: flex;
+    margin-top: 20px;
     padding-left: 62px;
     padding-right: 919px;
 }
@@ -92,7 +114,7 @@
     border-width: 0px;
 }
 
-.app-0-0-4 {
+.app-0-0-5 {
     flex-grow: 1;
     flex-basis: 0px;
 }
